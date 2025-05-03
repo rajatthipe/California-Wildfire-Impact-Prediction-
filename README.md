@@ -15,7 +15,7 @@
 
 
 ## 🧠 Machine Learning Approach
-#### The model pipeline includes:
+### The model pipeline includes:
 
 * Data cleaning and merging of wildfire and weather datasets
 
@@ -44,12 +44,8 @@
 
 ### 📊 Visualizations
 * Correlation heatmap of features
-
 * Fire occurrence frequency over time
-
 * Feature importance ranking
-
 * Confusion matrix and classification report
-
 * Predicted fire risks mapped by region (if coordinates are present)
 
